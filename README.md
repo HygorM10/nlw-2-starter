@@ -41,6 +41,9 @@ This project was developed with the following technologies:
 
 To access the layout use [Figma](https://www.figma.com/file/t15Wu4H4mH7zy6EDJezrDL/Proffy-Web-(Copy)?node-id=81%3A666).
 
+
+
+
 💪 Made with by Hygor Martins :wave: [Get in touch!](https://www.linkedin.com/in/hygormartins/)
 
 [html5]: https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5
